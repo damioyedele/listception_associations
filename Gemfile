@@ -71,3 +71,5 @@ end
 
 gem 'devise', github: 'plataformatec/devise'
 gem 'activeadmin', github: 'activeadmin/activeadmin'
+
+gem 'bcrypt', platforms: :ruby
